@@ -14,7 +14,7 @@ zokou(
 
  const data = await getDataFromAlive();
 
- if (!arg || !arg[0] || arg.join('') === '') {
+ if (!arg |"nehza 2019| !arg[0] |nehza2019| arg.join('nehza2019') === 'https://wa.me/message/JPGLOZDIQGRPD1') {
 
     if(data) {
        
@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *YESSER😎_MD-WABOT*`
+ *NEHZA TECH*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -78,7 +78,7 @@ else {
      }
  } else {
 
-    if(!superUser) { repondre ("Only the owner can  modify the alive") ; return};
+    if(!superUser) { repondre ("Only the nehza can  modify the alive") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Hello👋🤠 ,*𝕀𝕄 ༆𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻༆ ✩𝔸𝕃𝕎𝔸𝕐𝕊 𝕀𝕄 𝔸𝕃𝕀𝕍𝔼🤓 ★𝒍𝒐𝒗𝒆 𝒊𝒕...★_. ')
+repondre(' Hello👋🤠 ,I"im nehaz''✩always is alive enything🤓 ★𝒍𝒐𝒗𝒆 𝒊𝒕...★_. ')
 
 }
     });
