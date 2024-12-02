@@ -1,26 +1,27 @@
 </h1> 
-<p align="center"> 𝖄𝕰𝕾𝕾𝕰𝕽 𝕸𝕯
+<p align="center"> NEHZA_TECH
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+NEHZA+TECH+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
- <a href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv">
- <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://files.catbox.moe/eou4n8.jpeg".
+ <a href="https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU">
+ <img alt="NEHZA" height="300" src="https://files.catbox.moe/wovlx8.jpg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
-YESSER MD</b>, simple powerful bot </p>
+NEHZA TECH </b>, simple powerful bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin994?label=Followers&style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/YESSER-MD?&style=social"></a>
+<a href="https://github.com/Halisi1234/?tab=followers"><img title="Followers"src="https://img.shields.io/github/followers/Halisi1234?label=Followers&style=social"></a>
+<a href="https://github.com/Halisi1234/Nehza/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/YESSE?&style=social"></a>
+                                                
 <a href="https://github.com/yassin994/YESSER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/YESSER-MD?style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/YESSER-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Halisi1234/Nehza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Halisi1234/Nehza?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{yassin994}/count.svg" alt="YESSER-MD :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{yassin994}/count.svg" alt="NEHZA :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
@@ -30,7 +31,7 @@ YESSER MD</b>, simple powerful bot </p>
 ---
 
 <p align="center">
-  <a href="https://github.com/yassin994/yesser_md"><b>𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Halisi1234/Nehza"><b>NEHZA_TECH</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -43,14 +44,14 @@ YESSER MD</b>, simple powerful bot </p>
 
 
 
-## HOW TO DEPLOY YESSER MD 🤠 
+## HOW TO DEPLOY NEHZA 🤠 
 
 
 ## 1. FIRST STEP 
-FORK this repo YESSER-MD
+FORK this repo NEHZA 
 
 
-<a href="https://github.com/yassin994/YESSER-MD/fork"><img title="Tap Here Open session site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Halisi1234/Nehza/fork"><img title="Tap Here Open session site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
@@ -58,30 +59,30 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
  *CONNECT BY PAIRING CODE THROUGH BOTH STYLE*
 
 
-##*YESSER MD NORMAL BOT*##
+##*NEHZA TECH NORMAL BOT*##
 
    ༆𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕊𝕀𝕋𝔼༆
 𝐟𝐨𝐫 𝐧𝐨𝐫𝐦𝐚𝐥 𝐛𝐨𝐭👇 𝐩𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐝
  
 
-<a href="https://yesser.onrender.com"><img title="Tap Here Open session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://Nehza.onrender.com"><img title="Tap Here Open session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://yesser.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/normal bot pair-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://nehza.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/normal bot pair-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-##*YESSER MD BOTTOM BOT*##
+##*NEHZA MD BOTTOM BOT*##
 
 
   𝐟𝐨𝐫 𝐛𝐨𝐭𝐭𝐨𝐦 𝐛𝐨𝐭 👇 𝐩𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐝
  
 
     
-<a href='https://yesser-scanner-8309ae116f64.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Sbottom pair-900000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://nehza-scanner-8309ae116f64.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Sbottom pair-900000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+<a><img src='https://files.catbox.moe/wovlx8.jpg'/></a><a><img src='https://files.catbox.moe/wovlx8.jpg'/></a> 
 
 
 
@@ -97,7 +98,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
 <br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-1/tree/main">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Halisi1234/Nehza/tree/main">
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
