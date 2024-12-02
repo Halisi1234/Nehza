@@ -22,7 +22,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("Africa/Dar es salaam").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *YESSER✨MD* ═══\n\n";
+    let menuMsg = "  ═══ *NEHZA✨TECH* ═══\n\n";
     /*menuMsg+=`
     
     
@@ -67,9 +67,9 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://i.imgur.com/vXz75pe.jpeg";
+    var link = "https://files.catbox.moe/wovlx8.jpg";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©YESSER MD" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©NEHZA TECH" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
