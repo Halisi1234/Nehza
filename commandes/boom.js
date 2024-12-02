@@ -7,7 +7,7 @@ zokou(
   {
     nomCom: 'boom',
     categorie: 'Mods',
-    reaction: '😈',
+    reaction: '😡',
   }, 
 
   
@@ -35,7 +35,7 @@ error wrong format
               tasks.push(
                 new Promise((resolve) => {
                   setTimeout(function() {
-                    repondre(arg.slice(1).join(" "));
+                    repondre(arg.slice(1).join("🚀NEHZA🚀"));
                     resolve();
                   }, 1000 * i);
                 })
