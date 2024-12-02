@@ -26,14 +26,14 @@ zokou(
     } = commandOptions;
     const start = new Date().getTime();
     const msg = await zk.sendMessage(dest, {
-      text: '*Testing Ping!!!*',
+      text: '*Nehza test Ping!!!*',
     }, {
       quoted: ms
     });
-    const end = new Date().getTime();
+    const end = new Date().getTime(00);
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*Pong*
+      text: `*NEHZA2019*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});
