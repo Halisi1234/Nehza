@@ -19,7 +19,7 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by yesser md`);
+Powered by nehza md`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -37,7 +37,7 @@ Powered by yesser md`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *yesser tech*`);
+Powered by *nehza tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
